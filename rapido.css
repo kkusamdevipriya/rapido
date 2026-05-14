@@ -1,0 +1,14 @@
+.section4{
+    background-color: rgb(30,75,130);
+}
+.section4content{
+    color: white;
+}
+.section4content h1{
+    font-size: 50px;
+}
+.section4content p{
+    font-size: 33px;
+    margin-top: 50px;
+    line-height: 35px;
+}
